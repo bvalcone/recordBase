@@ -1,0 +1,40 @@
+body 
+{
+    
+}
+
+#container
+{
+    position:absolute;
+    width: 640px;
+    height: 1136px;
+    background: url(../img/recordBaseBackgroundMobile2.png);
+    top:0;
+    left: 0;
+    color:white;
+    overflow:scroll;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+
+
+.projectDiv
+{
+    font-size:20px;
+    font-family:"Courier New", Courier, monospace;
+}
+
+.menu   {
+        height:50px;
+        width:640px;
+        position:fixed;
+        display:block;
+        top:0;
+        left:0;
+        font-size:20px;
+        text-align:center;
+        background-color:black;
+        }
+
